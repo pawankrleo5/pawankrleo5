@@ -1,28 +1,45 @@
-# Hello, I'm Pawan Kumar 👋
+# Hi, I'm Pawan Kumar 👋
 
-I'm a **Data Analyst & Engineer** at **Home First Finance**, Mumbai, specializing in **Python/Django development, ETL pipelines, and data engineering**. I build scalable, automated systems for analytics, dashboards, and ML-ready datasets to enable **data-driven decision-making**.
+**Senior Python Backend Developer** | Django · Celery/Redis · WebSockets · PostgreSQL · AWS
+
+9+ years in tech, 4+ building production Django backends at Home First Finance (NSE/BSE listed), Mumbai. I design APIs, async pipelines and real-time systems that internal teams and customers rely on every day.
+
+> Most of my work is in private company repositories, so this profile highlights personal projects and learning.
+
+## What I build
+
+- **Real-time communication platforms:** WhatsApp (Meta API) and calling integrations over WebSockets, with S3 media storage
+- **Internal microservices platform:** multi-service Django + Docker on AWS EC2 for 2500+ employees, with role-based access, audit logging and zero-downtime deployments
+- **Data sync pipelines:** Salesforce ↔ PostgreSQL using Celery scheduled jobs, delta sync and error retry
+- **Automation:** WhatsApp bots with fuzzy-match intent detection, and Excel-based workflows replaced with proper services
+- **ETL and analytics:** Python + SQL pipelines (Odoo 16 → AWS RDS) feeding Metabase dashboards
+
+## Tech stack
+
+| Area | Tools |
+|---|---|
+| Languages | Python, SQL, Bash |
+| Frameworks | Django, Django REST Framework, FastAPI, Flask |
+| Data | PostgreSQL, MySQL, Redis |
+| Async / real-time | Celery, Redis, WebSockets |
+| Infra | Docker, Docker Compose, Nginx, Gunicorn, AWS (EC2, RDS, S3) |
+| Analytics | pandas, Metabase, Superset, ETL design |
 
 ## Education
-- 🎓 **Executive General Management Programme (EGMP)** – IIM Calcutta | Pursuing  
-  Focus: Team leadership, managerial skills, lending management, strategic decision-making
-- 🎓 **MS in Data Science** – Liverpool John Moores University & IIIT Bangalore
-- 📚 **B.Tech** – Electronics & Communication, Sikkim Manipal Institute of Technology
 
-## Technical Skills
-- **Languages:** Python, SQL  
-- **Frameworks:** Django, Django ORM  
-- **Databases:** MySQL, PostgreSQL  
-- **Data & Analytics Tools:** Metabase, Superset, Advanced Excel  
-- **Cloud & DevOps:** Docker (Compose, Rollbacks, Image Versioning), AWS (EC2, S3)  
-- **Other Tools:** RESTful APIs, Yellow.ai  
+- Executive General Management Programme (EGMP), IIM Calcutta (2025–2026)
+- MSc Data Science, Liverpool John Moores University
+- Executive PGP in Data Science & Data Engineering, IIIT Bangalore
+- B.Tech (Electronics & Communication), Sikkim Manipal Institute of Technology
 
-## Projects & Work in Progress
-- **ETL Pipeline for Data Migration:** Python-based pipelines moving data from Odoo 16 PostgreSQL to AWS-RDS for analytics and reporting.  
-- **Dashboard Development:** Built Metabase dashboards to track TAT, KPIs, and performance metrics using SQL queries.  
-- **Communication Platform:** Developing a centralized internal & customer communication system integrating Call, SMS and WhatsApp channels.  
-- **Chatbot Integration:** Collaborated with Yellow.ai to implement an automated WhatsApp chatbot flow for user interactions and callbacks.  
+## Connect
 
-## Connect with Me
-- LinkedIn: [linkedin.com/in/pawan-kumar-de-lead](https://www.linkedin.com/in/pawan-kumar-de-lead)  
-- GitHub: [github.com/pawankrleo5](https://github.com/pawankrleo5)  
-- Email: pawankrleo5@gmail.com  
+- LinkedIn: [pawan-kumar-backend](https://www.linkedin.com/in/pawan-kumar-backend/)
+- Email: pawankrleo5@gmail.com
+
+<!--
+ADD THIS SECTION once your sample repos are public (don't add dead links):
+
+## Featured projects
+- **[realtime-notify-service](https://github.com/pawankrleo5/realtime-notify-service):** Django Channels + Celery + Redis, Dockerized
+-->
